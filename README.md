@@ -23,10 +23,10 @@ The goal of this project is to build a machine learning model that predicts **in
 👉 https://insurancecostprediction-app-c8fj5owd7qzyual8fhlybs.streamlit.app
 
 ## 🧾 GitHub Repository  
-🔗 [Visit the GitHub Repo](https://github.com/Sharim101/InsuranceCostPrediction-App)
+🔗 https://github.com/Sharim101/InsuranceCostPrediction-App.git
 
 ## 📱 LinkedIn Project Post  
-🔗 [Check out my LinkedIn post](https://www.linkedin.com/in/YOUR-PROFILE)
+🔗 [[Check out my LinkedIn post](https://www.linkedin.com/in/YOUR-PROFILE)](https://www.linkedin.com/posts/muhammad-sharim-0b8477235_machinelearning-streamlit-python-activity-7324429230170062848-rLHG?utm_source=share&utm_medium=member_desktop&rcm=ACoAADqfpswBlK_soHkU80suzjQtqpUtEWrpGko)
 
 ## 🙋‍♂️ Author  
 **Sharim**  
