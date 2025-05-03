@@ -20,7 +20,7 @@ The goal of this project is to build a machine learning model that predicts **in
 - Clean and responsive interface
 
 ## 🔗 Live Demo  
-👉 [Click here to try the app](https://insurancecostprediction-app-XXXXXX.streamlit.app)
+👉 https://insurancecostprediction-app-c8fj5owd7qzyual8fhlybs.streamlit.app
 
 ## 🧾 GitHub Repository  
 🔗 [Visit the GitHub Repo](https://github.com/Sharim101/InsuranceCostPrediction-App)
