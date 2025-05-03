@@ -1,1 +1,34 @@
-# InsuranceCostPrediction-App
+# Insurance Cost Prediction App
+
+## 📌 Course Project – AF3005 Programming for Finance  
+This is my final project for the course **AF3005 – Programming for Finance** at **FAST National University**, supervised by **Dr. Usama Arshad**.
+
+## 🎯 Project Objective  
+The goal of this project is to build a machine learning model that predicts **insurance charges** based on user inputs like age, sex, BMI, number of children, smoking status, and region. The model is deployed using **Streamlit** for interactive use.
+
+## 🧠 Technologies Used  
+- Python  
+- Pandas, NumPy  
+- Scikit-learn (Linear Regression)  
+- Streamlit  
+- Plotly & Matplotlib (for visualization)
+
+## 🚀 App Features  
+- User input form to provide insurance details  
+- Real-time cost prediction using trained ML model  
+- Data visualizations for trends  
+- Clean and responsive interface
+
+## 🔗 Live Demo  
+👉 [Click here to try the app](https://insurancecostprediction-app-XXXXXX.streamlit.app)
+
+## 🧾 GitHub Repository  
+🔗 [Visit the GitHub Repo](https://github.com/Sharim101/InsuranceCostPrediction-App)
+
+## 📱 LinkedIn Project Post  
+🔗 [Check out my LinkedIn post](https://www.linkedin.com/in/YOUR-PROFILE)
+
+## 🙋‍♂️ Author  
+**Sharim**  
+BS Financial Technology  
+FAST National University  
